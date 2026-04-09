@@ -6,8 +6,8 @@
 
 Built with React, Supabase, and Groq AI
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://internsync.vercel.app)
-[![Backend](https://img.shields.io/badge/API-Render-8B5CF6?style=for-the-badge&logo=render&logoColor=white)](https://internsync-backend.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://intern-sync-six.vercel.app/)
+[![Backend](https://img.shields.io/badge/API-Render-8B5CF6?style=for-the-badge&logo=render&logoColor=white)](https://internsync-qusr.onrender.com)
 
 </div>
 
@@ -80,22 +80,24 @@ Built with React, Supabase, and Groq AI
 
 <!-- Add your screenshots to the assets/ folder and uncomment these -->
 
-<!--
+
 ### Landing Page
-![Landing Page](assets/landing.png)
+![Landing Page](assets/sc1.png)
+![Landing Page](assets/sc2.png)
 
 ### Task Management
-![Tasks Page](assets/tasks.png)
+![Tasks Page](assets/sc3.png)
 
 ### Reflections Journal
-![Reflections](assets/reflections.png)
+![Reflections](assets/sc4.png)
 
 ### Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/sc5.png)
 
 ### AI Report Generator
-![Reports](assets/reports.png)
--->
+![Reports](assets/sc6.png)
+![Reports](assets/sc7.png)
+
 
 ---
 
