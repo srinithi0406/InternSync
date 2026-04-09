@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 InternSync
+#  InternSync
 
 **Your smart internship companion — track tasks, reflect, and generate AI-powered reports.**
 
@@ -13,32 +13,32 @@ Built with React, Supabase, and Groq AI
 
 ---
 
-## 📖 Overview
+##  Overview
 
 **InternSync** is a full-stack web application designed to help students and interns manage their internship journey in one place. Log daily tasks, write journal-style reflections, visualize your progress on an interactive dashboard, and generate polished, submission-ready internship reports using AI — all from a sleek, dark-themed interface.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🏠 Landing Page
+###  Landing Page
 - Animated hero section with typewriter effect
 - Glassmorphism design with aurora background effects
 - Feature showcase and how-it-works timeline
 
-### 📝 Task Management
+###  Task Management
 - Log daily internship tasks with title, description, date, hours, difficulty, and status
 - Tag tasks with skills from a searchable dropdown
 - Filter tasks by status (All / Completed / In Progress / Blocked)
 - Edit and delete tasks inline
 
-### 📓 Reflections Journal
+###  Reflections Journal
 - Diary-style weekly reflections with a notebook UI
 - Handwritten font (Satisfy) for an authentic journal feel
 - Four guided prompts: *What I worked on, What went well, What was difficult, What's next*
 - Browse past entries in a sidebar
 
-### 📊 Dashboard & Analytics
+###  Dashboard & Analytics
 - **Stat cards** — Total tasks, completed, in-progress, hours logged
 - **Bar chart** — Hours logged per week
 - **Pie chart** — Task status breakdown (completed vs in-progress vs blocked)
@@ -46,21 +46,21 @@ Built with React, Supabase, and Groq AI
 - **Horizontal bar chart** — Most used skills
 - **Difficulty breakdown** — Animated progress bars
 
-### 🤖 AI Report Generator
+###  AI Report Generator
 - Generates professional, college-submission-ready internship reports
 - Powered by **Groq API** (LLaMA 3.3 70B)
 - Extracts achievements, challenges, skills gained, and a full narrative report
 - Export as **Markdown** or **PDF**
 - Editable sections — tweak the AI output before exporting
 
-### 🔐 Authentication
+###  Authentication
 - Email/password signup and login via **Supabase Auth**
 - Protected routes with `AuthGuard` component
 - "Back to Home" navigation on all protected pages
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -76,7 +76,7 @@ Built with React, Supabase, and Groq AI
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <!-- Add your screenshots to the assets/ folder and uncomment these -->
 
@@ -99,7 +99,7 @@ Built with React, Supabase, and Groq AI
 
 ---
 
-## 🚀 Getting Started
+##  How to run this locally
 
 ### Prerequisites
 
@@ -161,7 +161,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 internsync/
@@ -197,7 +197,7 @@ internsync/
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 | Service | What |
 |---------|------|
@@ -208,14 +208,5 @@ Set `VITE_API_URL` on Vercel to point to your Render backend URL.
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
----
-
-<div align="center">
-
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
-
-</div>
